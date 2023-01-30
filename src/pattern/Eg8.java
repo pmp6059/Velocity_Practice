@@ -6,7 +6,7 @@ public class Eg8 {
 	{
 		
 		int space=0;
-		int star=5;
+		int star=1;
 		
 		for(int row=1;row<=5;row++)
 		{
